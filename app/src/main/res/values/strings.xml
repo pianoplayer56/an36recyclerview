@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NMedia</string>
+    <string name="greeting" translatable="false">Привет, это новая Нетология!</string>
+    <string name="views_number" translatable="false">10</string>
+    <string name="likes" translatable="false">10</string>
+    <string name="reposts" translatable="false">Кнопка для репостов</string>
+    <string name="views" translatable="false">Просмотры</string>
+    <string name="additional_options" translatable="false">additional options</string>
+    <string name="click_like" translatable="false">click like</string>
+</resources>
